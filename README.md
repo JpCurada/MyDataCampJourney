@@ -3,7 +3,7 @@ https://app.datacamp.com/profile/jpcurada
 
 Started: February 9, 2023
 
-**Hi, I'm JP!**
+***Hi, I'm JP!***
 
 A driven and curious data science enthusiast with a passion for utilizing data to uncover hidden insights and drive positive change. My goal is to continuously improve and expand my knowledge in the field of data science, and I am dedicated to staying current with industry trends and developments.
 
