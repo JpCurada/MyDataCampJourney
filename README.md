@@ -1,2 +1,3 @@
-# MyDataCampJourney
-This repository contains my notes in Jupyter Notebook about the courses I took in the DataCamp
+# My DataCamp Journey
+Started: February 9, 2023
+Goal: Finish the Data Scientist Track with Python in 5 months.
