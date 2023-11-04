@@ -1,7 +1,9 @@
-# My DataCamp Journey
+# DataCamp Notes
 https://app.datacamp.com/profile/jpcurada
 
 Started: February 9, 2023
+1-year Premium Grant from UP Statistical Society
+1st Place Prize from ASCENT Data Storytelling Challenge 2023
 
 ***Hi, I'm JP!***
 
